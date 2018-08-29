@@ -1,0 +1,7 @@
+C:\Users\anuar\source\repos\dz_1.vvedenie_v_csharp\dz_1.vvedenie_v_csharp\bin\Debug\dz_1.vvedenie_v_csharp.exe.config
+C:\Users\anuar\source\repos\dz_1.vvedenie_v_csharp\dz_1.vvedenie_v_csharp\bin\Debug\dz_1.vvedenie_v_csharp.exe
+C:\Users\anuar\source\repos\dz_1.vvedenie_v_csharp\dz_1.vvedenie_v_csharp\bin\Debug\dz_1.vvedenie_v_csharp.pdb
+C:\Users\anuar\source\repos\dz_1.vvedenie_v_csharp\dz_1.vvedenie_v_csharp\obj\Debug\dz_1.vvedenie_v_csharp.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\dz_1.vvedenie_v_csharp\dz_1.vvedenie_v_csharp\obj\Debug\dz_1.vvedenie_v_csharp.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\dz_1.vvedenie_v_csharp\dz_1.vvedenie_v_csharp\obj\Debug\dz_1.vvedenie_v_csharp.exe
+C:\Users\anuar\source\repos\dz_1.vvedenie_v_csharp\dz_1.vvedenie_v_csharp\obj\Debug\dz_1.vvedenie_v_csharp.pdb
